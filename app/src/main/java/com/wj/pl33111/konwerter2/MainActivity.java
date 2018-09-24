@@ -17,7 +17,6 @@ import java.text.DecimalFormat;
 =======
 //testowy tekst
 >>>>>>> parent of 13628cf... zapis tekstu testowego do branch 1
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

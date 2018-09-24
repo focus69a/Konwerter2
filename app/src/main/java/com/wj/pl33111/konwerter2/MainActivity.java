@@ -8,6 +8,7 @@ import android.widget.EditText;
 
 import java.text.DecimalFormat;
 //testowy tekst powinie znalezc sie w branch 1
+//dodatkowy tekst do branch 1
 public class MainActivity extends AppCompatActivity {
 
     @Override

@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import java.text.DecimalFormat;
-//testowy tekst
+//testowy tekst powinie znalezc sie w branch 1
 public class MainActivity extends AppCompatActivity {
 
     @Override

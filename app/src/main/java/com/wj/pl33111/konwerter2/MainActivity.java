@@ -7,16 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import java.text.DecimalFormat;
-<<<<<<< HEAD
-<<<<<<< HEAD
-//testowy tekst powinie znalezc sie w branch 1
-//dodatkowy tekst do branch 1
-=======
-//testowy tekst
->>>>>>> parent of 13628cf... zapis tekstu testowego do branch 1
-=======
-//testowy tekst
->>>>>>> parent of 13628cf... zapis tekstu testowego do branch 1
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
